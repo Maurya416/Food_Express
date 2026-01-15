@@ -25,7 +25,7 @@ const FoodList = () => {
       halfPrice: 150,
       rating: 4.6,
       type: "veg",
-      image: "src/assets/pizza.jpg",
+      image: "/pizza.jpg",
     },
     {
       id: 3,
@@ -34,7 +34,7 @@ const FoodList = () => {
       price: 99,
       rating: 4.4,
       type: "veg",
-      image: "src/assets/coffee.jpg",
+      image: "/coffee.jpg",
     },
     {
       id: 4,
@@ -44,7 +44,7 @@ const FoodList = () => {
       rating: 4.3,
       discount: 15,
       type: "veg",
-      image:"src/assets/masala_dosa.jpg",
+      image:"/masala_dosa.jpg",
     },
     {
       id: 5,
@@ -54,7 +54,7 @@ const FoodList = () => {
       rating: 4.8,
       type: "nonveg",
       bestseller: true,
-      image:"src/assets/Chicken Shawarma.jpg",
+      image:"/Chicken Shawarma.jpg",
     },
     {
       id: 6,
@@ -64,7 +64,7 @@ const FoodList = () => {
       rating: 5,
       type: "veg",
       bestseller: false,
-      image:"src/assets/bakingo.avif",
+      image:"/bakingo.avif",
     },
     {
       id: 7,
@@ -74,7 +74,7 @@ const FoodList = () => {
       rating: 4.9,
       type: "veg",
       bestseller: true,
-      image:"src/assets/burger.jpg",
+      image:"/burger.jpg",
     },
     {
       id: 8,
@@ -84,7 +84,7 @@ const FoodList = () => {
       rating: 5,
       type: "veg",
       bestseller: false,
-      image:"src/assets/Paneer.webp",
+      image:"/Paneer.webp",
     },
     {
       id: 9,
@@ -94,7 +94,7 @@ const FoodList = () => {
       rating: 4.8,
       type: "veg",
       bestseller: true,
-      image:"src/assets/Noodles.jpg",
+      image:"/Noodles.jpg",
     },
 
   ];
