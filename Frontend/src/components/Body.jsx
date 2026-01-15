@@ -15,7 +15,7 @@ const FoodList = () => {
       halfPrice: 120,
       rating: 4.7,
       type: "nonveg",
-      image: "src/assets/chiken.jpg",
+      image: "/chiken.jpg",
     },
     {
       id: 2,
