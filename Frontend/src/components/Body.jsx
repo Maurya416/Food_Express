@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { useLocation } from "react-router-dom";
-import FoodCard from "./Foodcard";
+import FoodCard from "./FoodCard";
 
 const FoodList = () => {
   const location = useLocation();
